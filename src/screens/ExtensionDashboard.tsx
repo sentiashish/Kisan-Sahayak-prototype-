@@ -244,13 +244,13 @@ export default function ExtensionDashboard({ setScreen }: Props) {
                 </div>
               </div>
 
-              {/* AI Advisory */}
+              {/* Field Advisory */}
               <div className="border-2 border-[rgba(46,125,50,0.4)] rounded-[12px] p-[14px]" style={{ backgroundImage: 'linear-gradient(149.74deg, rgba(232,245,233,0.3) 0%, white 100%)' }}>
                 <div className="flex items-center gap-[8px] mb-[10px]">
                   <div className="bg-[#2e7d32] flex items-center justify-center rounded-[8px] shrink-0 size-[28px]">
                     <img alt="" className="block max-w-none" style={{height:'14px',width:'14px'}} src={`${assetPathPrefix}/f2531.svg`} />
                   </div>
-                  <div className="font-['Hanken_Grotesk:Bold'] font-bold text-[#191d17] text-[13px] leading-[19.5px]">AI Advisory</div>
+                  <div className="font-['Hanken_Grotesk:Bold'] font-bold text-[#191d17] text-[13px] leading-[19.5px]">Field Advisory</div>
                 </div>
                 <p className="font-['Hanken_Grotesk:Medium'] font-medium text-[#191d17] text-[12px] leading-[19.2px]">
                   {selectedFarmer.risk === 'critical'

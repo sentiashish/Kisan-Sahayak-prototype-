@@ -135,7 +135,7 @@ export default function FarmerHome({ setScreen }: Props) {
                 <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer5} />
               </div>
               <div className="font-['Hanken_Grotesk:Bold'] font-bold text-[#2e7d32] text-[11px] tracking-[0.55px] uppercase whitespace-nowrap">
-                <p className="leading-[16.5px]">AI AGRONOMIST INSIGHT</p>
+                    <p className="leading-[16.5px]">AGRONOMIST INSIGHT</p>
               </div>
             </div>
             <div className="bg-[#f9fafb] border border-[#f3f4f6] flex flex-col items-start px-[9px] py-[3px] rounded-[4px] shrink-0">

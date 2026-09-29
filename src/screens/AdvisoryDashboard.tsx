@@ -291,7 +291,7 @@ export default function AdvisoryDashboard({ setScreen }: Props) {
               </div>
             </div>
 
-            {/* Card 4: AI Recommendation */}
+            {/* Card 4: Recommendation */}
             <div className="border-2 border-[rgba(46,125,50,0.4)] flex flex-col gap-[6px] items-start overflow-clip p-[16px] relative rounded-[16px] shadow-[0px_4px_6px_-1px_rgba(0,0,0,0.1),0px_2px_4px_-2px_rgba(0,0,0,0.1)] shrink-0 w-full" style={{ backgroundImage: "linear-gradient(149.74deg, rgba(232,245,233,0.2) 0%, rgb(255,255,255) 50%, rgb(255,255,255) 100%)" }}>
               <div className="flex items-start justify-between shrink-0 w-full">
                 <div className="flex gap-[8px] items-center shrink-0">
@@ -300,7 +300,7 @@ export default function AdvisoryDashboard({ setScreen }: Props) {
                   </div>
                   <div className="flex flex-col gap-[5px] items-start pb-[3px]">
                     <div className="flex gap-[6px] items-center">
-                      <span className="font-['Hanken_Grotesk:Bold'] font-bold text-[#191d17] text-[14px] leading-[14px]">AI Recommendation</span>
+                      <span className="font-['Hanken_Grotesk:Bold'] font-bold text-[#191d17] text-[14px] leading-[14px]">Recommendation</span>
                       <div className="bg-[#ffebee] border border-[rgba(211,47,47,0.2)] flex items-center pb-[3.25px] pt-[2px] px-[7px] rounded-[4px]">
                         <span className="font-['Hanken_Grotesk:Bold'] font-bold text-[#d32f2f] text-[9.5px] tracking-[0.475px] uppercase leading-[14.25px]">URGENT</span>
                       </div>

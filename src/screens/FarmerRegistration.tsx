@@ -172,7 +172,7 @@ export default function FarmerRegistration({ setScreen }: Props) {
             {consent && <img alt="" className="block size-[10px] max-w-none" src={`${assetPathPrefix}/5c170.svg`} />}
           </button>
           <p className="font-['Hanken_Grotesk:Regular'] font-normal text-[#4e5748] text-[11px] leading-[17.6px]">
-            I consent to share farm data with extension officers and AI advisory system under the <span className="font-['Hanken_Grotesk:SemiBold'] font-semibold text-[#2e7d32]">Kisan Sahayak Data Policy</span>.
+            I consent to share farm data with extension officers and the advisory system under the <span className="font-['Hanken_Grotesk:SemiBold'] font-semibold text-[#2e7d32]">Kisan Sahayak Data Policy</span>.
           </p>
         </div>
 
