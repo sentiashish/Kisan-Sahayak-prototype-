@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap');
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Hanken Grotesk:Regular';
+  src: url('https://static.figma.com/font/HankenGrotesk_wght__1') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Hanken Grotesk:Medium';
+  src: url('https://static.figma.com/font/HankenGrotesk_wght__1') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Hanken Grotesk:SemiBold';
+  src: url('https://static.figma.com/font/HankenGrotesk_wght__1') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Hanken Grotesk:Bold';
+  src: url('https://static.figma.com/font/HankenGrotesk_wght__1') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Hanken Grotesk:ExtraBold';
+  src: url('https://static.figma.com/font/HankenGrotesk_wght__1') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Liberation Mono:Regular';
+  src: local('Courier New'), local('Courier'), local('monospace');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Liberation Mono:Bold';
+  src: local('Courier New Bold'), local('Courier Bold'), local('monospace');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FreeSans:Regular';
+  src: local('Arial'), local('Helvetica'), local('sans-serif');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Hanken Grotesk', sans-serif;
+  background-color: #f6f7f5;
+}

@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="190" height="190" viewBox="0 0 190 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG Progress Track Ring (Static / Animated visual cue)">
+<path id="Vector" d="M7.6 95C7.6 143.237 46.7626 182.4 95 182.4C143.237 182.4 182.4 143.237 182.4 95C182.4 46.7626 143.237 7.6 95 7.6C46.7626 7.6 7.6 46.7626 7.6 95V95" stroke="#E3EAE1" stroke-width="3.8"/>
+<path id="statusRingSvg" d="M182.4 95C182.4 130.787 160.583 162.958 127.336 176.198C94.0881 189.438 56.1283 181.072 31.5268 155.082C6.92544 129.092 0.653657 90.7309 15.6972 58.2596C30.7408 25.7883 64.0598 5.76866 99.7927 7.7311" stroke="#2E7D32" stroke-width="4.75" stroke-linecap="round"/>
+</g>
+</svg>

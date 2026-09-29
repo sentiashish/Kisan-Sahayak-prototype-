@@ -1,0 +1,11 @@
+{
+  "title": "Kisan Sahayak  (prototype)",
+  "description": "Delivers a fully functional, interactive SaaS prototype that enables users to experience and test key features seamlessly before launch.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
